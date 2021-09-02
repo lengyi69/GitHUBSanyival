@@ -6,6 +6,7 @@ namespace GitHUBSanyival
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Szerintem is");
             Console.WriteLine("Második terítés!");
         }
     }
